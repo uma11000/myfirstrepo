@@ -1,0 +1,5 @@
+name=Uma
+course name=Bsc
+GitHub is a cloud-based platform.
+print(name)
+print(course name)
