@@ -1,0 +1,7 @@
+name=uma
+college name=Aditya degree college for women
+course name=BSc-cs2
+suc code=2347390610
+roll no=106
+email=aditya@gmail.com
+address=kakinada
